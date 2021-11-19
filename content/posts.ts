@@ -6,7 +6,7 @@ const en = [
     title: 'Post 1',
     desc:
       'A short description of the post to keep the user interested.' +
-      ' Description can be of different lengths, blocks are aligned' +
+      ' Description can bdde of different lengths, blocks are aligned' +
       ' to the height of the block with the longest description',
     file: 'content/posts/1.md',
     img: 'assets/images/1.svg',
