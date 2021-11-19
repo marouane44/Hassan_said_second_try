@@ -29,7 +29,7 @@ export default Vue.extend({
 .pf {
   &__image {
     width: 100%;
-    max-width: 650px;
+    max-width: 850px;
     margin: 24px auto;
     display: block;
 

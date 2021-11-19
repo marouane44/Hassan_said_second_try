@@ -3,12 +3,14 @@ import { Post } from './Post'
 const en = [
   {
     id: 1,
-    title: 'Post 1',
+    title: 'Sahara merzouga',
     desc:
-      'HI IT WORKS FIINEof different lengths, blocks are aligned' +
-      ' to the height of the block with the longest description',
+      'A Trip to the Merzouga desert is full of fun and adventure.'+
+      ' Enjoy your desert excursions in Merzouga completely during your'+
+      ' Morocco visit, breathe life in Sahara golden sands' ,
+      
     file: 'content/posts/1.md',
-    img: 'assets/images/1.svg',
+    img: 'assets/images/sahara_mrzoga1.jpg',
   },
   {
     id: 2,

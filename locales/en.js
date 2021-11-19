@@ -1,7 +1,7 @@
 export default {
   home: {
-    title: 'Nuxt blog',
-    subtitle: 'The best blog you can find on the Internet',
+    title: 'Travel with Hassan',
+    subtitle: 'You can expect the best service from us',
     postCount: 'Total posts: ',
   },
   post: {
