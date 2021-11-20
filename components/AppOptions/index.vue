@@ -4,6 +4,7 @@ section.section
     .app-options
       switcher-lang
       switcher-color-mode
+      about
 </template>
 
 <script lang="ts">

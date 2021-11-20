@@ -36,6 +36,7 @@ button {
   border: none;
   outline: none;
   padding: 12px 20px;
+   margin-right: 12px;
   cursor: pointer;
   background-color: $background-color;
 
