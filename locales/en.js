@@ -1,6 +1,7 @@
 export default {
   home: {
     title: 'Travel with Moustapha',
+    about:'sehsthsth',
     subtitle: 'You can expect the best service from us',
     postCount: 'Total posts: ',
   },

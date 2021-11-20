@@ -53,6 +53,16 @@ const en = [
     file: 'content/posts/5.md',
     img: 'assets/images/5.svg',
   },
+  {
+    id: 6,
+    title: 'What you need to know about Us',
+    desc:
+      'A short description of the post to keep the user interested.' +
+      ' Description can be of different lengths, blocks are aligned' +
+      ' to the height of the block with the longest description',
+    file: 'content/posts/6.md',
+    img: 'assets/images/5.svg',
+  },
 ] as Post[]
 
 const ru = [
