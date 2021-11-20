@@ -43,6 +43,7 @@ export default Vue.extend({
 
     p {
       margin: 24px 0;
+      line-height: 1.2;
     }
   }
 }
