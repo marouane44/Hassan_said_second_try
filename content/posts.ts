@@ -14,13 +14,14 @@ const en = [
   },
   {
     id: 2,
-    title: 'Post 2',
+    title: 'Essaouira-Mogador',
     desc:
-      'A short description of the post to keep the user interested.' +
-      ' Description can be of different lengths, blocks are aligned' +
-      ' to the height of the block with the longest description',
+      'Essaouira-Mogador, bride of the Atlantic Crenellated walls,'+
+      'special wind, houses with white and blue facades, Essaouira, '+
+      'the ancient Mogador is the Bride of the Atlantic.' ,
+      
     file: 'content/posts/2.md',
-    img: 'assets/images/2.svg',
+    img: 'assets/images/Essaouira.jpg',
   },
   {
     id: 3,

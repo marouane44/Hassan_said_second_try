@@ -1,6 +1,6 @@
 export default {
   home: {
-    title: 'Travel with Hassan',
+    title: 'Travel with Moustapha',
     subtitle: 'You can expect the best service from us',
     postCount: 'Total posts: ',
   },
@@ -9,6 +9,6 @@ export default {
   },
   footer: {
     feedback: 'Contact us',
-    copyright: 'All rights reserved',
+    copyright: 'Travel with Moustapha, All rights reserved -click on Contact us to Send Mail',
   },
 }

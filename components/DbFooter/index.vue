@@ -3,7 +3,7 @@ section.section
   .content
     .footer
       a.secondary(
-        href="mailto:example@mail.com?subject=Nuxt blog"
+        href="mailto:marwanhaz43@gmail.com?subject=Travel with Moustapha"
       ) {{ $t('footer.feedback') }}
       p.footer__copyright(
         class="body3 regular"
