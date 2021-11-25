@@ -1,14 +1,18 @@
 <template lang="pug">
 .page
   link-to-home
-
+  
   section-header(
     :title="currentPost.title"
   )
 
+
+
   post-full(
     :post="currentPost"
   )
+
+
 </template>
 
 <script lang="ts">
@@ -17,7 +21,11 @@ import { Post } from '~/content/Post'
 import posts from '~/content/posts'
 
 export default Vue.extend({
- 
+  data() {
+      return {
+        title: 'Home page'
+      }
+    },
   computed: {
     currentId(): number {
       return Number(this.$route.params.id)

@@ -25,13 +25,14 @@ const en = [
   },
   {
     id: 3,
-    title: 'Post 3',
+    title: 'Fes',
     desc:
-      'A short description of the post to keep the user interested.' +
-      ' Description can be of different lengths, blocks are aligned' +
-      ' to the height of the block with the longest description',
+      'Fez (Fes), the oldest and biggest of Morocco’s four Imperial cities'+
+      '“Marrakech, Meknes, and Rabat”, an incredible city of high Islamic civilization' +
+      'and the majestic Fez medina is a World Heritage Site' ,
+ 
     file: 'content/posts/3.md',
-    img: 'assets/images/3.svg',
+    img: 'assets/images/riadfes.jpg',
   },
   {
     id: 4,
