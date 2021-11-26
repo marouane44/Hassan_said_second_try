@@ -36,13 +36,13 @@ const en = [
   },
   {
     id: 4,
-    title: 'Post 4',
+    title: 'Chefchaouen',
     desc:
-      'A short description of the post to keep the user interested.' +
-      ' Description can be of different lengths, blocks are aligned' +
-      ' to the height of the block with the longest description',
+      'Chefchaouen is undoubtedly one of Morocco s most picturesque ' +
+      ' towns and one of the worlds most colorful cities.' +
+      ' The locals simply call it Chaouen but to foreigners...',
     file: 'content/posts/4.md',
-    img: 'assets/images/4.svg',
+    img: 'assets/images/chefchaoun.jpg',
   },
   {
     id: 5,
